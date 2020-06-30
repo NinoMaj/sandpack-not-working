@@ -1,8 +1,8 @@
-# To run:
+# To run app:
 
-`yarn`
-`yarn start`
+1. `yarn` 
+2. `yarn start`
 
-# To make it work
+# To make it Sandpack/Smooshpack work
 
 Uncomment `bundlerURL` prop in `src/App.js`
